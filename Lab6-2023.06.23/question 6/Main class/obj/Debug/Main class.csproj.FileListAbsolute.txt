@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\sanuth\c# lab\Main class\Main class\bin\Debug\Main class.exe.config
+C:\Users\DELL\Documents\sanuth\c# lab\Main class\Main class\bin\Debug\Main class.exe
+C:\Users\DELL\Documents\sanuth\c# lab\Main class\Main class\bin\Debug\Main class.pdb
+C:\Users\DELL\Documents\sanuth\c# lab\Main class\Main class\obj\Debug\Main class.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\sanuth\c# lab\Main class\Main class\obj\Debug\Main class.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\sanuth\c# lab\Main class\Main class\obj\Debug\Main class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\sanuth\c# lab\Main class\Main class\obj\Debug\Main class.exe
+C:\Users\DELL\Documents\sanuth\c# lab\Main class\Main class\obj\Debug\Main class.pdb
