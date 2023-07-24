@@ -1,0 +1,8 @@
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q1 Task 3\Q1 Task 3\obj\Debug\Q1 Task 3.csproj.AssemblyReference.cache
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q1 Task 3\Q1 Task 3\obj\Debug\Q1 Task 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q1 Task 3\Q1 Task 3\obj\Debug\Q1 Task 3.csproj.CoreCompileInputs.cache
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q1 Task 3\Q1 Task 3\bin\Debug\Q1 Task 3.exe.config
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q1 Task 3\Q1 Task 3\bin\Debug\Q1 Task 3.exe
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q1 Task 3\Q1 Task 3\bin\Debug\Q1 Task 3.pdb
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q1 Task 3\Q1 Task 3\obj\Debug\Q1 Task 3.exe
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q1 Task 3\Q1 Task 3\obj\Debug\Q1 Task 3.pdb
