@@ -1,0 +1,8 @@
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q2 task 1\Q2 task 1\obj\Debug\Q2 task 1.csproj.AssemblyReference.cache
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q2 task 1\Q2 task 1\obj\Debug\Q2 task 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q2 task 1\Q2 task 1\obj\Debug\Q2 task 1.csproj.CoreCompileInputs.cache
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q2 task 1\Q2 task 1\bin\Debug\Q2 task 1.exe.config
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q2 task 1\Q2 task 1\bin\Debug\Q2 task 1.exe
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q2 task 1\Q2 task 1\bin\Debug\Q2 task 1.pdb
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q2 task 1\Q2 task 1\obj\Debug\Q2 task 1.exe
+C:\Users\sanut\OneDrive\Documents\NSBM\C sharp\Q2 task 1\Q2 task 1\obj\Debug\Q2 task 1.pdb
